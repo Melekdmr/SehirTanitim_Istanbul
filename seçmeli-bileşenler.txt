@@ -1,0 +1,12 @@
+UYGULADIĞIM SEÇMELİ BİLEŞENLER:
+1-Yöresel ürünler/yemekler sayfasındaki yöresel ürün/yemek görüntülerinin tamamının üzerine fare 
+ile geçtikten sonra ekrana ‘tüm ürünleri incelediniz ’ şeklinde yazı yazan bir pop-up oluşturun
+
+2-Web sayfanızda ‘şehrimizi ne kadar tanıyorsunuz?’ şeklinde BİR sayfa oluşturun. Bu sayfada 
+kullanıcılara şehrinizle alakalı 5 adet test sorusu sorun. Test soruları sayfada sırayla görünmeli. 
+Kullanıcı bir soruyu cevaplamadan diğer soru ekranda görünmemeli. Test sonunda yapılan doğru 
+cevap sayısı pop-up kullanılarak ekrana yazdırılsın
+
+3- İletişim sayfası oluşturun. Sayfada kullanıcı adı, soyadı, adres ve e-posta bilgisi ve yazmak istediği 
+mesajı girebilmelidir. Gönder tuşuna basıldığında kullanıcının yazdığı tüm bilgiler düzenli bir 
+şekilde pop-up aracılığı ile ekrana yazdırılsın.
